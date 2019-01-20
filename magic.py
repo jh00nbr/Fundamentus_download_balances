@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """Este script foi desenvolvido com o objetivo de baixar balanços de dados historicos do site Fundamentus, é indispensavel frisar 
-que o mesmo deve ser "usado" com moderação e sempre manter os creditos do desenvolvedor. Acabei escrevendo um mini artigo com mais detalhes
+que o uso do mesmo deve ser com moderação e sempre mantendo os creditos do desenvolvedor. Acabei escrevendo um mini artigo com mais detalhes
 de como este script foi desenvolvido. 
 
 Artigo: 
