@@ -4,7 +4,7 @@
 que o uso do mesmo deve ser com moderação e sempre mantendo os creditos do desenvolvedor. Acabei escrevendo um mini artigo com mais detalhes
 de como este script foi desenvolvido. 
 
-Artigo: 
+Artigo: https://medium.com/@jhoonbr/como-eu-bypassei-um-captcha-sem-quebra-l%C3%B3-balan%C3%A7os-de-dados-hist%C3%B3ricos-fundamentus-c988d4cdcf0f
 
 """
 
