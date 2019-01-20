@@ -1,5 +1,15 @@
 #!/usr/bin/env python3
 
+
+# -------------------------------------------------
+# Author: Jhonathan Davi A.K.A jh00nbr
+# E-mail: jdavi@insightsecurity.com.br
+# Insightl4b: lab.insightsecurity.com.br
+# jh00nbr: http://jhonathandavi.com.br
+# Github: github.com/jh00nbr
+# Twitter @jh00nbr
+# -------------------------------------------------
+
 import requests
 import random
 import sys
